@@ -1,1 +1,1 @@
-# Javascript-project
+This javascript folder contains reaction testor project.
